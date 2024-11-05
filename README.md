@@ -1,8 +1,10 @@
-**_<h1 align="center">:vulcan_salute: Ejercicio En Clase :computer:</h1>_**
-**_<h2 align="center">Módulo 2 - Fundamentos de Programación en Java</h2>_**
+**_<h1 align="center">:vulcan_salute: Ejercicio Individual Número 4 :computer:</h1>_**
+**_<h2 align="center">Módulo 3 - Fundamentos de Bases de Datos Relacionales</h2>_**
 
-- Orden Computadoras incluye los elementos computador, monitor, raton y teclado creados según diagrama:
+- Creación de tablas
+- Creación e incoporación de llaves primerias y foraneas
+- Alteración para incorporar más llaves foráneas
+- Deficiniciones asociadas a transaccionalidad
 
-<img src="./assets/image/diagrama-ventas.jpg" alt="diagrama" align="center">
- 
-- Incluye archivo JavaDoc
+<img src="./assets/image/quiero_otro_mundo_iteracion4.jpg" alt="tablas" align="center">
+
