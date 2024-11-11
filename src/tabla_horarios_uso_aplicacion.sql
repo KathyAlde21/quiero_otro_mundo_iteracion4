@@ -1,0 +1,1 @@
+SELECT * FROM quiero_otro_mundo_iteracion4.horarios_uso_plataforma;

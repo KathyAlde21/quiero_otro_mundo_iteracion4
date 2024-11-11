@@ -6,5 +6,5 @@
 - Alteración para incorporar más llaves foráneas
 - Deficiniciones asociadas a transaccionalidad
 
-<img src="./assets/image/quiero_otro_mundo_iteracion4.jpg" alt="tablas" align="center">
+<img src="./src/quiero_otro_mundo_iteracion4.jpg" alt="tablas" align="center">
 
